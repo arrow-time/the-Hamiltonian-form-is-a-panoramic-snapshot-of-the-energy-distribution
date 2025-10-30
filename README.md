@@ -1,0 +1,2 @@
+# the-Hamiltonian-form-is-a-panoramic-snapshot-of-the-energy-distribution
+The physical picture of Hamiltonian is exceptionally clear:  an instantaneous panoramic snapshot of the energy distribution (similar to a weather snapshot). Within this framework, the physical meanings of the Schrödinger equation and General Relativity (GR) equation can be interpreted in a more intuitive and transparent manner.
