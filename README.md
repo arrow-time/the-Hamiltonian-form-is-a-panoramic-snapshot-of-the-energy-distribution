@@ -36,7 +36,8 @@ The metric tensor g{μν} can emerge from the effective geometry defined by the 
 
 The geodesic equation may correspond to the macroscopic continuous limit of the maximum entropy path selection principle and minimum action path selection.
 
-The full text of the model: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Embodies Metric Evolution. Zenodo. https://doi.org/10.5281/zenodo.15278220
 From the perspective of an energy-distribution snapshot, both the Hamiltonian and the system’s evolution are transparent in this model; turning this insight into a practical toolkit, however, demands implementing hierarchical coarse-graining and renormalization—a route whose first exploratory steps will be sketched in Section 15.9.
 
 However, rigorously constructing this bridge involves advanced tools from differential geometry, statistical mechanics, and field theory. Therefore, its full development is best undertaken by a collaborative team of professional physicists.
+
+The full text of the model: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Embodies Metric Evolution. Zenodo. https://doi.org/10.5281/zenodo.15278220
